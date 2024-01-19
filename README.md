@@ -41,7 +41,7 @@ Este projeto foi desenvolvido com o propósito de fornecer uma plataforma de est
   npm start
 - O servidor estará em execução em http://localhost:3001.
 
-  ### Frontend
+### Frontend
 
 - Certifique-se de ter o Node.js instalado em sua máquina.
 - Abra o terminal na pasta do frontend e execute o seguinte comando para instalar as dependências:
