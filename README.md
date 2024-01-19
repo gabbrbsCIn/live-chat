@@ -54,7 +54,6 @@ Este projeto foi desenvolvido com o propósito de fornecer uma plataforma de est
 - O aplicativo estará acessível em http://localhost:3000.
 
 ## Planos Futuros
-- Planos Futuros
-Estamos planejando estilizar o chat, armazenar mensagens e adicionar indicadores de carregamento. Se você tiver ideias ou desejar contribuir para esses planos, fique à vontade para entrar em contato ou enviar pull requests.
+- Estamos planejando estilizar o chat, armazenar mensagens e adicionar indicadores de carregamento. Se você tiver ideias ou desejar contribuir para esses planos, fique à vontade para entrar em contato ou enviar pull requests.
   
 
