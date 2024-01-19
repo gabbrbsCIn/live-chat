@@ -471,17 +471,6 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next-auth/providers/credentials.js":
-/*!*********************************************************!*\
-  !*** ./node_modules/next-auth/providers/credentials.js ***!
-  \*********************************************************/
-/***/ ((__unused_webpack_module, exports) => {
-
-"use strict";
-eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\nexports[\"default\"] = Credentials;\nfunction Credentials(options) {\n    return {\n        id: \"credentials\",\n        name: \"Credentials\",\n        type: \"credentials\",\n        credentials: {},\n        authorize: ()=>null,\n        options\n    };\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC1hdXRoL3Byb3ZpZGVycy9jcmVkZW50aWFscy5qcyIsIm1hcHBpbmdzIjoiQUFBYTtBQUViQSw4Q0FBNkM7SUFDM0NHLE9BQU87QUFDVCxDQUFDLEVBQUM7QUFDRkQsa0JBQWUsR0FBR0c7QUFFbEIsU0FBU0EsWUFBWUMsT0FBTztJQUMxQixPQUFPO1FBQ0xDLElBQUk7UUFDSkMsTUFBTTtRQUNOQyxNQUFNO1FBQ05DLGFBQWEsQ0FBQztRQUNkQyxXQUFXLElBQU07UUFDakJMO0lBQ0Y7QUFDRiIsInNvdXJjZXMiOlsid2VicGFjazovL2Zyb250ZW5kLy4vbm9kZV9tb2R1bGVzL25leHQtYXV0aC9wcm92aWRlcnMvY3JlZGVudGlhbHMuanM/NzYzOSJdLCJzb3VyY2VzQ29udGVudCI6WyJcInVzZSBzdHJpY3RcIjtcclxuXHJcbk9iamVjdC5kZWZpbmVQcm9wZXJ0eShleHBvcnRzLCBcIl9fZXNNb2R1bGVcIiwge1xyXG4gIHZhbHVlOiB0cnVlXHJcbn0pO1xyXG5leHBvcnRzLmRlZmF1bHQgPSBDcmVkZW50aWFscztcclxuXHJcbmZ1bmN0aW9uIENyZWRlbnRpYWxzKG9wdGlvbnMpIHtcclxuICByZXR1cm4ge1xyXG4gICAgaWQ6IFwiY3JlZGVudGlhbHNcIixcclxuICAgIG5hbWU6IFwiQ3JlZGVudGlhbHNcIixcclxuICAgIHR5cGU6IFwiY3JlZGVudGlhbHNcIixcclxuICAgIGNyZWRlbnRpYWxzOiB7fSxcclxuICAgIGF1dGhvcml6ZTogKCkgPT4gbnVsbCxcclxuICAgIG9wdGlvbnNcclxuICB9O1xyXG59Il0sIm5hbWVzIjpbIk9iamVjdCIsImRlZmluZVByb3BlcnR5IiwiZXhwb3J0cyIsInZhbHVlIiwiZGVmYXVsdCIsIkNyZWRlbnRpYWxzIiwib3B0aW9ucyIsImlkIiwibmFtZSIsInR5cGUiLCJjcmVkZW50aWFscyIsImF1dGhvcml6ZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next-auth/providers/credentials.js\n");
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next-auth/utils/detect-origin.js":
 /*!*******************************************************!*\
   !*** ./node_modules/next-auth/utils/detect-origin.js ***!
