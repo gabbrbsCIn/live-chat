@@ -56,4 +56,8 @@ Este projeto foi desenvolvido com o propósito de fornecer uma plataforma de est
 ## Planos Futuros
 - Estamos planejando estilizar o chat, armazenar mensagens e adicionar indicadores de carregamento. Se você tiver ideias ou desejar contribuir para esses planos, fique à vontade para entrar em contato ou enviar pull requests.
   
+## Funcionamento da aplicação
+[https://github.com/gabbrbsCIn/live-chat/blob/main/LiveChat_video.mp4]
+
+
 
